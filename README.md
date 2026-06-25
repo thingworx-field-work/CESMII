@@ -1,4 +1,4 @@
-# Template project for creating GitHub published Solutions
+# CESMII Integration Building Blocks
 
 # Disclaimer
 
