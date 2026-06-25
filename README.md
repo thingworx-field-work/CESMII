@@ -24,7 +24,11 @@ PTC is not responsible for any maintenance for this software.
 
 # Overview
 
-DESCRIPTION
+The CESMII Integration Building Blocks are a solution that:
+* Allows for the import of SM profiles
+*	Allows for the creation of thing models based on SM Profiles
+*	Exposes I3X endpoints for use by other applications
+
 
 All content is provided as "Releases" and is not directly in the Git Repo.  Cloning this Git Repo will not provide any content.
 
